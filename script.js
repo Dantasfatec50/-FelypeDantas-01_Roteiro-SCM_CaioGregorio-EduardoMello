@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Mensagem de boas-vindas no console
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('DevLab - Landing Page carregada com sucesso!');
+    console.log('DevLab - Landing Page carregada com sucesso! Atualizado 2.0');
 });
 
 // TODO: Adicionar interatividade à página
