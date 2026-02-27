@@ -9,6 +9,7 @@ h1 {
     font-size: 3.5rem;
     text-align: center;
     text-decoration-line: line-through;
+    text-shadow: #ff00ea;
 }
 
 * {
