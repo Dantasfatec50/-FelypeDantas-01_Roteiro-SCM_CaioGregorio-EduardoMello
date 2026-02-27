@@ -4,7 +4,7 @@
 
 // Aguarda o carregamento completo do DOM
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Landing Page carregada com sucesso!');
+    console.log('Landing Page carregada com sucessoooooooooooo!');
 });
 
 // Mensagem de boas-vindas no console
