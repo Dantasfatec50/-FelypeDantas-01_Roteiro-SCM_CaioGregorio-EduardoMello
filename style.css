@@ -4,7 +4,7 @@
 
 /* Reset básico */
 h1 {
-    color: #1100ff;
+    color: #746ec4;
     color: #172c8b;
     font-size: 3.5rem;
     text-align: center;
@@ -19,9 +19,9 @@ h1 {
 }
 
 h1 {
-    color: #0ab0d1;
+    color: #480177;
     font-size: 3rem;
-    text-align: right;
+    text-align: center;
 }
 
 body {
@@ -63,7 +63,7 @@ body {
 }
 
 .nav-links a:hover {
-    color: #3498db;
+    color: #00426d;
 }
 
 /* ========== HERO SECTION ========== */
